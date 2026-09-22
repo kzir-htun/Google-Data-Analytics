@@ -1,0 +1,26 @@
+Data Analyst: Someone who collects, transforms and organizes data in order to help make informed decisions.
+
+Module 1
+
+Steps in Data Analysis
+
+1:ask the right questions of data
+2:data preparation
+3:process and clean data
+4:analysis: Collect, transforms and organize data
+5:plan, create and present Effective and Compelling data visualizations
+6:Case study 
+
+Introduction to course:
+
+cant lay brick without clay ( in this case clay is the data)
+
+the building block of everything is Data in our case.
+
+Data, Data is a collection of facts or information. 
+Through Analysis, you can learn how to use the data to draw conclusions, and make predictions and decisions.
+
+Data analysis process Phases
+
+Ask, Prepare, Process, Analyze, Share, Act
+	
